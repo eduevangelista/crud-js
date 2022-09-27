@@ -1,4 +1,4 @@
-# CRUD - Cadacastro de clientes
+# CRUD - Cadastro de clientes
 
 ![preview](./img/p.PNG)
 
